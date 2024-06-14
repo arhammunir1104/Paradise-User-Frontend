@@ -1,6 +1,6 @@
 import { useContext, createContext, useEffect, useState, Children, } from "react";
 
-let baseURL= "http://localhost:3002";
+let baseURL= "https://paradise-user-backend.vercel.app";
 
 export let AuthContext= createContext();
 export let AuthProvider = ({children})=>{
