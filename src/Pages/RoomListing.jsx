@@ -713,7 +713,7 @@ function RoomListing() {
                 <Box sx={style3}>
                 <div>
                     <p className='text-[1.2rem] font-bold my-[5px]'>Reservation Details.</p>
-                    <p className='text-[.9rem] my-[2px]'><b>Name</b>: {user.name}</p>
+                    <p className='text-[.9rem] my-[2px] capitalize'><b>Name</b>: {user.name}</p>
                     <p className='text-[.9rem] my-[2px]'><b>Email:</b> {user.email}</p>
                     <p className='text-[.9rem] my-[2px]'><b>Phone No:</b> {user.phone}</p>
                     <p className='text-[.9rem] my-[2px]'><b>CINC No:</b> {user.cnic}</p>
