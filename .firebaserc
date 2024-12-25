@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "paradise-user"
-  }
+    "default": "paradise-user",
+    "staging": "paradise-user"
+  },
+  "targets": {},
+  "etags": {}
 }

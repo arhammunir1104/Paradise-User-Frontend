@@ -178,7 +178,7 @@ function Login(){
                     
                     <p className='my-[2%] mx-[10px] text-[.8rem]'>Don't have an Account? <NavLink to="/register" className="text-blue-400 underline">Create Account</NavLink></p>
                     <Stack spacing={2} direction="row">
-                        <Button variant="contained" type="submit" className="text-custom_camel w-[100%] my-[2%] bg-custom_camel" style={{margin: "4%", backgroundColor : "#EBD7B2"}} >Create Account</Button>
+                        <Button variant="contained" type="submit" className="text-custom_camel w-[100%] my-[2%] bg-custom_camel" style={{margin: "4%", backgroundColor : "#EBD7B2"}} >LOGIN</Button>
                     </Stack>
                     </form>
                     </div>
